@@ -1,5 +1,5 @@
 👋 Hi, I’m Joymalya Basu Roy. I work at Atos as a Senior Consultant-Architect for Microsoft Intune.
-I was awarded the Microsoft MVP in 2020 for the Enterprise Mobility category.
+I was awarded the Microsoft MVP in 2021 for the Enterprise Mobility category.
 
 👀 I’m interested in Modern Device Management with MEM Intune.
 
